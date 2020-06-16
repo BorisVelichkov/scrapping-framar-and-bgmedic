@@ -8,7 +8,10 @@
 import scrapy
 
 
-class FramarItem(scrapy.Item):
+class DiseaseItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    title = scrapy.Field()
+    author = scrapy.Field()
+    published = scrapy.Field()
+    text = scrapy.Field()
     pass
