@@ -1,5 +1,10 @@
 # Scrapping Framar and BGMedic
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 This project contains the code for scrapping the diseases described in the bulgarian medical websites - medpedia.framar.bg and bgmedic.com.
 The purpose of this project is to scrape the description of each disease in bulgarian language so that we can expand our existing dataset.
 The data will help for training a model in NLP Machine Learning tasks.
